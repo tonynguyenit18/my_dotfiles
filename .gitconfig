@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Tony Nguyen
+	email = tonynguyenit18@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = Tony Nguyen
+#	email = tony@192-168-1-115.tpgi.com.au
+[core]
+	ignorecase = false
